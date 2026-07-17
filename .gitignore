@@ -1,0 +1,10 @@
+# Reasonix internal data
+.reasonix/
+
+# Large binary files (>10MB)
+/chi_sim.traineddata
+/综合全文.pdf
+
+# OCR intermediate images
+*_ocr.png
+*_preview.png
